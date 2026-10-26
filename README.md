@@ -26,18 +26,18 @@ Each case study module includes:
 
 ## Selected Case Studies Index
 
-| S.No | Case Study Title | Directory / Code |
+| S.No | Case Study Title | Source File |
 | :---: | :--- | :--- |
-| 1 | [Examination Answer Evaluation](Python%20Activity%20Based%20Learning/case_study_01.py) | [case_study_01.py](Python%20Activity%20Based%20Learning/case_study_01.py) |
-| 2 | [Fuel Consumption and Route Comparison](Python%20Activity%20Based%20Learning/case_study_02.py) | [case_study_02.py](Python%20Activity%20Based%20Learning/case_study_02.py) |
-| 3 | [Mobile Plan Cost Comparison](Python%20Activity%20Based%20Learning/case_study_03.py) | [case_study_03.py](Python%20Activity%20Based%20Learning/case_study_03.py) |
-| 4 | [Multi-Currency Travel Budget](Python%20Activity%20Based%20Learning/case_study_04.py) | [case_study_04.py](Python%20Activity%20Based%20Learning/case_study_04.py) |
-| 5 | [Multi-Day Water Tank Simulation](Python%20Activity%20Based%20Learning/case_study_05.py) | [case_study_05.py](Python%20Activity%20Based%20Learning/case_study_05.py) |
-| 6 | [Progressive Electricity Billing](Python%20Activity%20Based%20Learning/case_study_06.py) | [case_study_06.py](Python%20Activity%20Based%20Learning/case_study_06.py) |
-| 7 | [Retail Billing with Discounts](Python%20Activity%20Based%20Learning/case_study_07.py) | [case_study_07.py](Python%20Activity%20Based%20Learning/case_study_07.py) |
-| 8 | [Smart Parking Fee Management](Python%20Activity%20Based%20Learning/case_study_08.py) | [case_study_08.py](Python%20Activity%20Based%20Learning/case_study_08.py) |
-| 9 | [Student Timetable Conflict Detection](Python%20Activity%20Based%20Learning/case_study_09.py) | [case_study_09.py](Python%20Activity%20Based%20Learning/case_study_09.py) |
-| 10 | [Text Compression Using Character](Python%20Activity%20Based%20Learning/case_study_10.py) | [case_study_10.py](Python%20Activity%20Based%20Learning/case_study_10.py) |
+| 1 | [Examination Answer Evaluation](Python-Activity-Based-Learning/case_study_01.py) | [case_study_01.py](Python-Activity-Based-Learning/case_study_01.py) |
+| 2 | [Fuel Consumption and Route Comparison](Python-Activity-Based-Learning/case_study_02.py) | [case_study_02.py](Python-Activity-Based-Learning/case_study_02.py) |
+| 3 | [Mobile Plan Cost Comparison](Python-Activity-Based-Learning/case_study_03.py) | [case_study_03.py](Python-Activity-Based-Learning/case_study_03.py) |
+| 4 | [Multi-Currency Travel Budget](Python-Activity-Based-Learning/case_study_04.py) | [case_study_04.py](Python-Activity-Based-Learning/case_study_04.py) |
+| 5 | [Multi-Day Water Tank Simulation](Python-Activity-Based-Learning/case_study_05.py) | [case_study_05.py](Python-Activity-Based-Learning/case_study_05.py) |
+| 6 | [Progressive Electricity Billing](Python-Activity-Based-Learning/case_study_06.py) | [case_study_06.py](Python-Activity-Based-Learning/case_study_06.py) |
+| 7 | [Retail Billing with Discounts](Python-Activity-Based-Learning/case_study_07.py) | [case_study_07.py](Python-Activity-Based-Learning/case_study_07.py) |
+| 8 | [Smart Parking Fee Management](Python-Activity-Based-Learning/case_study_08.py) | [case_study_08.py](Python-Activity-Based-Learning/case_study_08.py) |
+| 9 | [Student Timetable Conflict Detection](Python-Activity-Based-Learning/case_study_09.py) | [case_study_09.py](Python-Activity-Based-Learning/case_study_09.py) |
+| 10 | [Text Compression Using Character](Python-Activity-Based-Learning/case_study_10.py) | [case_study_10.py](Python-Activity-Based-Learning/case_study_10.py) |
 
 ---
 
