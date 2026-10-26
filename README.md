@@ -44,21 +44,12 @@ Each case study module includes:
 ## Repository Structure
 
 ```text
-Python-Activity-Based-Learning/
+Python-Activity-Based-Learning/ (Repository Root)
 ├── README.md
-├── Case_Study_01/
-│   ├── problem_01.py
-│   ├── flowchart.png
-│   ├── output_screenshot.png
-│   └── documentation.md
-├── Case_Study_02/
-│   ├── problem_02.py
-│   ├── flowchart.png
-│   ├── output_screenshot.png
-│   └── documentation.md
-...
-└── Case_Study_10/
-    ├── problem_10.py
-    ├── flowchart.png
-    ├── output_screenshot.png
-    └── documentation.md
+└── Python-Activity-Based-Learning/ (Nested folder)
+    ├── screenshots/
+    ├── Case Study 01.docx
+    ├── Case Study 02.docx
+    ...
+    ├── case_study_01.py
+    └── case_study_02.py
