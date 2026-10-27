@@ -48,8 +48,8 @@ Python-Activity-Based-Learning/ (Repository Root)
 ├── README.md
 └── Python-Activity-Based-Learning/ (Nested folder)
     ├── screenshots/
-    ├── Case Study 01.docx
-    ├── Case Study 02.docx
+    ├── Case Study 01.pdf
+    ├── Case Study 02.pdf
     ...
     ├── case_study_01.py
     └── case_study_02.py
